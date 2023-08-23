@@ -8,7 +8,8 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Mohamad Arwani. Computer Engineering fresh graduate. I enjoy learning programming & problem solving and I am in my way to be a junior software engineer. </h4>
+<h4> I'm Mohamad Arwani. Computer Engineering fresh graduate. I enjoy learning programming & problem solving and I am on my way to becoming a junior software engineer.
+ </h4>
 
 
 	
