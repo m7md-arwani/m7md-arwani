@@ -16,6 +16,14 @@
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
+### Certificates :
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/88810feee1b74a39ad2c5cd0f72cad97) 
+
+
+
+
 ### Languages and Tools 🛠 : 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
