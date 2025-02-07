@@ -20,6 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/88810feee1b74a39ad2c5cd0f72cad97) 
+# CompTIA Security+ (SY0-701) <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" alt="CompTIA Security+ Logo" width="200" align= "right">
 
 
 
@@ -36,7 +37,7 @@
 
 
 - ### I’m currently learning 
-Preparing to take CompTIA Security+ certificate ⚡⚡
+Attending KFUPM⚡⚡
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
