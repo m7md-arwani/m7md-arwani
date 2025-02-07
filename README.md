@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/88810feee1b74a39ad2c5cd0f72cad97) 
-# CompTIA Security+ (SY0-701) <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" alt="CompTIA Security+ Logo" width="200" align= "right">
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" alt="CompTIA Security+ Logo" width="70" align= "left">
 
 
 
